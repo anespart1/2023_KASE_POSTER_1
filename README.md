@@ -1,5 +1,5 @@
-# 2023_KASE_POSTER_1
-repository for poster presentation kase 2023
+# 2023 KASE POSTER Data
+2023 KASE 포스터 발표를 위한 레포지토리입니다.
 
 
 ## 수업 프로그램 목록
